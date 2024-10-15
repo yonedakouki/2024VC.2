@@ -1,0 +1,15 @@
+@charset "utf-8";
+ul li a {
+	line-height: 40px;
+
+}
+body h1 {
+	color: #FC0004;
+	text-align: center;
+	font-family: Osaka-mono, "MS Gothic", monospace;
+	font-size: 50px;
+}
+body {
+    background-image: url(haikei.siro.png);
+    background-size: cover;
+}
